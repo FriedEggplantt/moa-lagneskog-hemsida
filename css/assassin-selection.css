@@ -1,0 +1,12 @@
+.assassin-grid {
+  display: flex;
+  justify-content: space-between;
+}
+
+.syc {
+  text-align: center;
+  color: #806b2c;
+  font-size: 50px;
+  font-family: "Libre Baskerville", serif;
+  line-height: 4;
+}

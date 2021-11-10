@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Roboto+Slab&display=swap");
+
+:root {
+  --golden-color: #806b2c;
+}
+
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  background-color: #191819;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #31173c;
+  width: 100vw;
+}
+
+.start {
+  display: flex;
+}
+
+.a {
+  text-align: left;
+  text-decoration: none;
+  font-size: 35px;
+  padding-left: 100px;
+  padding-top: 52px;
+  height: 100px;
+  color: white;
+  font-family: "Libre Baskerville", serif;
+}
+
+.logo {
+  width: 350px;
+  padding-right: 10px;
+}
+
+footer {
+  width: 100%;
+  text-align: end;
+  height: 55px;
+  background-color: #31173c;
+}
