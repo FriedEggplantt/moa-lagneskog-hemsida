@@ -1,0 +1,57 @@
+.battlequeen {
+  background-image: url("../assassin.photos/katarina.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 930px;
+}
+
+.katagradient {
+  display: flex;
+  align-items: flex-end;
+  width: 100%;
+  height: 930px;
+  background: rgb(25, 24, 25);
+  background: linear-gradient(
+    0deg,
+    rgba(25, 24, 25, 1) 0%,
+    rgba(0, 212, 255, 0) 50%
+  );
+}
+
+.kataname {
+  text-align: center;
+  color: #806b2c;
+  font-size: 50px;
+  font-family: "Libre Baskerville", serif;
+}
+
+.midkata {
+  padding-left: 20px;
+  height: 150px;
+}
+
+.katarunestitle {
+  margin-top: 70px;
+  margin-left: 480px;
+  text-align: center;
+  color: #806b2c;
+  font-size: 55px;
+  font-family: "Libre Baskerville", serif;
+}
+
+.kata1 {
+  padding-top: 50px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.katadom {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.kataprecision {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
