@@ -49,9 +49,142 @@
 .katadom {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  align-items: center;
 }
 
 .kataprecision {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  align-items: center;
+}
+
+.katabtitle {
+  color: white;
+  font-family: "Libre Baskerville", serif;
+}
+
+.katabonus {
+  margin-top: 100px;
+  margin-right: 250px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 50px;
+}
+
+.katarunes {
+  display: flex;
+  justify-content: space-between;
+  background-color: #31173c;
+  margin-left: 80px;
+  margin-bottom: 150px;
+  margin-right: 80px;
+  margin-top: 20px;
+  border-radius: 0%;
+  border: #806b2c 5px solid;
+}
+
+.kataitemtitle {
+  text-align: center;
+  color: #806b2c;
+  font-size: 55px;
+  font-family: "Libre Baskerville", serif;
+}
+
+.kataitems {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 0%;
+  border-top: #806b2c 3px solid;
+  border-bottom: #806b2c 3px solid;
+  margin: 50px;
+  height: 170px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.kataability {
+  padding-top: 100px;
+  text-align: center;
+  color: #806b2c;
+  font-size: 55px;
+  font-family: "Libre Baskerville", serif;
+}
+
+.katatitle {
+  padding-top: 50px;
+  padding-left: 100px;
+  color: white;
+  font-family: "Libre Baskerville", serif;
+}
+
+.kataorder {
+  padding-top: 10px;
+  padding-left: 100px;
+  display: flex;
+  gap: 40px;
+  height: 100px;
+}
+
+.katacombo {
+  display: flex;
+  gap: 40px;
+  height: 100px;
+  padding-top: 10px;
+  padding-left: 100px;
+}
+
+.kataspells {
+  margin-top: 100px;
+  margin-right: 250px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 50px;
+  padding-left: 400px;
+}
+
+.katasspells {
+  padding-left: 135px;
+  gap: 50px;
+}
+
+.kataig {
+  margin-bottom: 50px;
+}
+
+.katasability {
+  display: flex;
+}
+
+.katactitle {
+  padding-top: 200px;
+  text-align: center;
+  color: #806b2c;
+  font-size: 55px;
+  font-family: "Libre Baskerville", serif;
+}
+
+.kataagainst {
+  padding-left: 200px;
+}
+
+.katasagainst {
+  display: grid;
+  padding-left: 180px;
+  padding-top: 50px;
+  gap: 40px;
+}
+
+.katasfor {
+  display: grid;
+  padding-left: 210px;
+  padding-top: 50px;
+  gap: 40px;
+}
+
+.katacounter {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding-bottom: 50px;
 }
