@@ -1,0 +1,192 @@
+.talon {
+    background-image: url("../assassin.photos/talon.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 930px;
+  }
+  
+  .tlgradient {
+    display: flex;
+    align-items: flex-end;
+    width: 100%;
+    height: 930px;
+    background: rgb(25, 24, 25);
+    background: linear-gradient(
+      0deg,
+      rgba(25, 24, 25, 1) 0%,
+      rgba(0, 212, 255, 0) 50%
+    );
+  }
+  
+  .tlname {
+    text-align: center;
+    color: #806b2c;
+    font-size: 50px;
+    font-family: "Libre Baskerville", serif;
+  }
+  
+  .midtl {
+    padding-left: 20px;
+    height: 150px;
+  }
+  
+  .tlrunestitle {
+    margin-top: 70px;
+    margin-left: 480px;
+    text-align: center;
+    color: #806b2c;
+    font-size: 55px;
+    font-family: "Libre Baskerville", serif;
+  }
+  
+  .tl1 {
+    padding-top: 50px;
+    display: flex;
+    justify-content: flex-start;
+  }
+  
+  .tldom {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    align-items: center;
+  }
+  
+  .tlprecision {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    align-items: center;
+  }
+  
+  .tlbtitle {
+    color: white;
+    font-family: "Libre Baskerville", serif;
+  }
+  
+  .tlbonus {
+    margin-top: 100px;
+    margin-right: 250px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 50px;
+  }
+  
+  .tlrunes {
+    display: flex;
+    justify-content: space-between;
+    background-color: #31173c;
+    margin-left: 80px;
+    margin-bottom: 150px;
+    margin-right: 80px;
+    margin-top: 20px;
+    border-radius: 0%;
+    border: #806b2c 5px solid;
+  }
+  
+  .tlitemtitle {
+    text-align: center;
+    color: #806b2c;
+    font-size: 55px;
+    font-family: "Libre Baskerville", serif;
+  }
+  
+  .tlitems {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 0%;
+    border-top: #806b2c 3px solid;
+    border-bottom: #806b2c 3px solid;
+    margin: 50px;
+    height: 170px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .tlability {
+    padding-top: 100px;
+    text-align: center;
+    color: #806b2c;
+    font-size: 55px;
+    font-family: "Libre Baskerville", serif;
+  }
+  
+  .tltitle {
+    padding-top: 50px;
+    padding-left: 100px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+  }
+  
+  .tlorder {
+    padding-top: 10px;
+    padding-left: 100px;
+    display: flex;
+    gap: 40px;
+    height: 100px;
+  }
+  
+  .tlcombo {
+    display: flex;
+    gap: 40px;
+    height: 100px;
+    padding-top: 10px;
+    padding-left: 100px;
+  }
+  
+  .tlspells {
+    margin-top: 50px;
+    margin-right: 250px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 50px;
+    padding-left: 400px;
+  }
+  
+  .tlsspells {
+    padding-left: 135px;
+    gap: 50px;
+  }
+  
+  .tlig {
+    margin-bottom: 50px;
+  }
+  
+  .tlsability {
+    display: flex;
+  }
+  
+  .tlctitle {
+    padding-top: 200px;
+    text-align: center;
+    color: #806b2c;
+    font-size: 55px;
+    font-family: "Libre Baskerville", serif;
+    padding-bottom: 60px;
+  }
+  
+  .tlagainst {
+    padding-left: 200px;
+  }
+  
+  .tlsagainst {
+    display: grid;
+    padding-left: 180px;
+    padding-top: 50px;
+    gap: 40px;
+  }
+  
+  .tlsfor {
+    display: grid;
+    padding-left: 210px;
+    padding-top: 50px;
+    gap: 40px;
+  }
+  
+  .tlcounter {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-bottom: 50px;
+  }
+  

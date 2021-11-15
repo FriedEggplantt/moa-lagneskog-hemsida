@@ -1,12 +1,12 @@
-.battlequeen {
-  background-image: url("../assassin.photos/katarina.jpg");
+.leblanc {
+  background-image: url("../assassin.photos/leblanc.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   width: 100vw;
   height: 930px;
 }
 
-.katagradient {
+.lbgradient {
   display: flex;
   align-items: flex-end;
   width: 100%;
@@ -19,19 +19,19 @@
   );
 }
 
-.kataname {
+.lbname {
   text-align: center;
   color: #806b2c;
   font-size: 50px;
   font-family: "Libre Baskerville", serif;
 }
 
-.midkata {
+.midlb {
   padding-left: 20px;
   height: 150px;
 }
 
-.katarunestitle {
+.lbrunestitle {
   margin-top: 70px;
   margin-left: 480px;
   text-align: center;
@@ -40,30 +40,30 @@
   font-family: "Libre Baskerville", serif;
 }
 
-.kata1 {
+.lb1 {
   padding-top: 50px;
   display: flex;
   justify-content: flex-start;
 }
 
-.katadom {
+.lbdom {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
   align-items: center;
 }
 
-.kataprecision {
+.lbprecision {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
   align-items: center;
 }
 
-.katabtitle {
+.lbbtitle {
   color: white;
   font-family: "Libre Baskerville", serif;
 }
 
-.katabonus {
+.lbbonus {
   margin-top: 100px;
   margin-right: 250px;
   display: flex;
@@ -72,7 +72,7 @@
   width: 50px;
 }
 
-.katarunes {
+.lbrunes {
   display: flex;
   justify-content: space-between;
   background-color: #31173c;
@@ -84,14 +84,14 @@
   border: #806b2c 5px solid;
 }
 
-.kataitemtitle {
+.lbitemtitle {
   text-align: center;
   color: #806b2c;
   font-size: 55px;
   font-family: "Libre Baskerville", serif;
 }
 
-.kataitems {
+.lbitems {
   padding-top: 20px;
   padding-bottom: 20px;
   border-radius: 0%;
@@ -103,7 +103,7 @@
   justify-content: space-around;
 }
 
-.kataability {
+.lbability {
   padding-top: 100px;
   text-align: center;
   color: #806b2c;
@@ -111,14 +111,14 @@
   font-family: "Libre Baskerville", serif;
 }
 
-.katatitle {
+.lbtitle {
   padding-top: 50px;
   padding-left: 100px;
   color: white;
   font-family: "Libre Baskerville", serif;
 }
 
-.kataorder {
+.lborder {
   padding-top: 10px;
   padding-left: 100px;
   display: flex;
@@ -126,7 +126,7 @@
   height: 100px;
 }
 
-.katacombo {
+.lbcombo {
   display: flex;
   gap: 40px;
   height: 100px;
@@ -134,7 +134,7 @@
   padding-left: 100px;
 }
 
-.kataspells {
+.lbspells {
   margin-top: 50px;
   margin-right: 250px;
   display: flex;
@@ -144,20 +144,20 @@
   padding-left: 400px;
 }
 
-.katasspells {
+.lbsspells {
   padding-left: 135px;
   gap: 50px;
 }
 
-.kataig {
+.lbig {
   margin-bottom: 50px;
 }
 
-.katasability {
+.lbsability {
   display: flex;
 }
 
-.katactitle {
+.lbctitle {
   padding-top: 200px;
   text-align: center;
   color: #806b2c;
@@ -166,25 +166,25 @@
   padding-bottom: 60px;
 }
 
-.kataagainst {
+.lbagainst {
   padding-left: 200px;
 }
 
-.katasagainst {
+.lbsagainst {
   display: grid;
   padding-left: 180px;
   padding-top: 50px;
   gap: 40px;
 }
 
-.katasfor {
+.lbsfor {
   display: grid;
   padding-left: 210px;
   padding-top: 50px;
   gap: 40px;
 }
 
-.katacounter {
+.lbcounter {
   display: grid;
   grid-template-columns: 1fr 1fr;
   padding-bottom: 50px;

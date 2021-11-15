@@ -1,0 +1,35 @@
+.assassin-grid {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+  }
+  
+  .syc {
+    text-align: center;
+    color: #806b2c;
+    font-size: 50px;
+    font-family: "Libre Baskerville", serif;
+    line-height: 4;
+  }
+  
+  .kata {
+    transition: transform 0.1s;
+  }
+  .kata:hover {
+    transform: scale(1.05);
+  }
+  
+  .lb {
+    transition: transform 0.1s;
+  }
+  .lb:hover {
+    transform: scale(1.05);
+  }
+  
+  .tl {
+    transition: transform 0.1s;
+  }
+  .tl:hover {
+    transform: scale(1.05);
+  }
+  
