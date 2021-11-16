@@ -38,6 +38,15 @@ header {
   font-family: "Libre Baskerville", serif;
 }
 
+.info {
+  color: white;
+  font-family: "Libre Baskerville", serif;
+  text-decoration: none;
+  font-size: 25px;
+  padding-top: 58px;
+  padding-left: 80px;
+}
+
 .logo {
   width: 350px;
   padding-right: 20px;

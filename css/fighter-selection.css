@@ -1,4 +1,4 @@
-.assassin-grid {
+.fighter-grid {
     display: flex;
     justify-content: space-between;
     padding-bottom: 20px;
@@ -12,24 +12,31 @@
     line-height: 4;
   }
   
-  .kata {
+  .morde {
     transition: transform 0.1s;
   }
-  .kata:hover {
+  .morde:hover {
+    transform: scale(1.05);
+  }
+
+  .riven {
+    transition: transform 0.1s;
+  }
+  .riven:hover {
     transform: scale(1.05);
   }
   
-  .lb {
+  .kled {
     transition: transform 0.1s;
   }
-  .lb:hover {
+  .kled:hover {
     transform: scale(1.05);
   }
   
-  .tl {
+  .darius {
     transition: transform 0.1s;
   }
-  .tl:hover {
+  .darius:hover {
     transform: scale(1.05);
   }
   
