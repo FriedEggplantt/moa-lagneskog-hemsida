@@ -1,4 +1,4 @@
-.mordekaiser {
+.darius {
   background-image: url("../assassin.photos/darius.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -19,19 +19,19 @@
   );
 }
 
-.mordename {
+.darname {
   text-align: center;
   color: #806b2c;
   font-size: 50px;
   font-family: "Libre Baskerville", serif;
 }
 
-.midmorde {
+.middar {
   padding-left: 20px;
   height: 150px;
 }
 
-.morderunestitle {
+.darrunestitle {
   margin-top: 70px;
   margin-left: 480px;
   text-align: center;
@@ -40,30 +40,30 @@
   font-family: "Libre Baskerville", serif;
 }
 
-.morde1 {
+.dar1 {
   padding-top: 50px;
   display: flex;
   justify-content: flex-start;
 }
 
-.mordedom {
+.dardom {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
   align-items: center;
 }
 
-.mordeprecision {
+.darprecision {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
   align-items: center;
 }
 
-.mordebtitle {
+.darbtitle {
   color: white;
   font-family: "Libre Baskerville", serif;
 }
 
-.mordebonus {
+.darbonus {
   margin-top: 100px;
   margin-right: 250px;
   display: flex;
@@ -72,7 +72,7 @@
   width: 50px;
 }
 
-.morderunes {
+.darrunes {
   display: flex;
   justify-content: space-between;
   background-color: #31173c;
@@ -84,14 +84,14 @@
   border: #806b2c 5px solid;
 }
 
-.mordeitemtitle {
+.daritemtitle {
   text-align: center;
   color: #806b2c;
   font-size: 55px;
   font-family: "Libre Baskerville", serif;
 }
 
-.mordeitems {
+.daritems {
   padding-top: 20px;
   padding-bottom: 20px;
   border-radius: 0%;
@@ -103,7 +103,7 @@
   justify-content: space-around;
 }
 
-.mordeability {
+.darability {
   padding-top: 100px;
   text-align: center;
   color: #806b2c;
@@ -111,14 +111,14 @@
   font-family: "Libre Baskerville", serif;
 }
 
-.mordetitle {
+.dartitle {
   padding-top: 50px;
   padding-left: 100px;
   color: white;
   font-family: "Libre Baskerville", serif;
 }
 
-.mordeorder {
+.darorder {
   padding-top: 10px;
   padding-left: 100px;
   display: flex;
@@ -126,7 +126,7 @@
   height: 100px;
 }
 
-.mordecombo {
+.darcombo {
   display: flex;
   gap: 40px;
   height: 100px;
@@ -134,7 +134,7 @@
   padding-left: 100px;
 }
 
-.mordespells {
+.darspells {
   margin-top: 50px;
   margin-right: 250px;
   display: flex;
@@ -144,20 +144,20 @@
   padding-left: 400px;
 }
 
-.mordesspells {
+.darsspells {
   padding-left: 135px;
   gap: 50px;
 }
 
-.mordeig {
+.darig {
   margin-bottom: 50px;
 }
 
-.mordesability {
+.darsability {
   display: flex;
 }
 
-.mordectitle {
+.darctitle {
   padding-top: 200px;
   text-align: center;
   color: #806b2c;
@@ -166,25 +166,25 @@
   padding-bottom: 60px;
 }
 
-.mordeagainst {
+.daragainst {
   padding-left: 200px;
 }
 
-.mordesagainst {
+.darsagainst {
   display: grid;
   padding-left: 180px;
   padding-top: 50px;
   gap: 40px;
 }
 
-.mordesfor {
+.darsfor {
   display: grid;
   padding-left: 210px;
   padding-top: 50px;
   gap: 40px;
 }
 
-.mordecounter {
+.darcounter {
   display: grid;
   grid-template-columns: 1fr 1fr;
   padding-bottom: 50px;
